@@ -1,2 +1,2 @@
 # qc_pro_2020
-This is the quadcopter project using custom MCU STM32.
+This is the quadcopter project using custom MCU STM32 for flight controller.
