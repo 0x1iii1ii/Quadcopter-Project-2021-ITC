@@ -1,2 +1,5 @@
-# qc_pro_2020
-This is the quadcopter project using custom MCU STM32 for flight controller.
+# MPU6050 port to STM32
+
+just a simple MPU6050 library for STM32 
+
+
