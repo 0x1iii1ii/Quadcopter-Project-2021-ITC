@@ -1,5 +1,5 @@
-# MPU6050 ported to STM32
+# STM32 Quadcopter Project 
 
-just a simple MPU6050 library for STM32
+Hello! this is the source code of my thesis project quadcopter base on MCU STM32.
 
 
